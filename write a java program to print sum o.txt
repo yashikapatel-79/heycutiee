@@ -1,0 +1,15 @@
+write a java program to print sum of even digits of the given no?
+      s=0;
+
+while(n!=0) //12345678
+    r=n%10;
+if (r%2==0)
+    s=s+r;
+
+    n=n/10
+
+wap to check given no is perfect no or not.
+
+
+wap to check given no is a armsstrong no.
+    
